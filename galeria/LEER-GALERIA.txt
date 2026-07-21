@@ -1,0 +1,52 @@
+====================================================
+  CARPETA DE GALERÍA  -  Venta de Hot Dog
+====================================================
+
+Aquí guardas las fotos que quieres que salgan en la sección
+"Galería" de tu página. ¡Salen solas! No tienes que tocar
+ningún código.
+
+--------------------------------------------------
+CÓMO AGREGAR FOTOS (súper fácil)
+--------------------------------------------------
+1. Copia tus fotos dentro de esta carpeta (galeria).
+
+2. Nómbralas con NÚMEROS SEGUIDOS:
+
+        1.jpg
+        2.jpg
+        3.jpg
+        4.jpg   ... y así.
+
+3. Guarda y abre tu página. Las fotos aparecen solas en la
+   sección "Galería".
+
+Eso es todo. Cada vez que quieras agregar otra, ponle el
+siguiente número (5.jpg, 6.jpg...).
+
+--------------------------------------------------
+REGLAS IMPORTANTES (para que no falle)
+--------------------------------------------------
+- Usa números SEGUIDOS empezando en 1: 1, 2, 3, 4...
+  (Si saltas del 2 al 6, la galería se detiene en el hueco.)
+
+- Formatos válidos:  .jpg   .jpeg   .png   .webp
+
+- Nombres SIN espacios y SIN tildes. Solo el número.
+  Bien:  3.jpg          Mal:  foto 3.jpg  /  hotdog.jpg
+
+- Si borras una foto del medio (ej. la 3), renombra las
+  demás para que no queden huecos, o vuelve a poner una 3.
+
+--------------------------------------------------
+RECOMENDACIONES PARA LAS FOTOS
+--------------------------------------------------
+- Cuadradas (ej. 800 x 800 píxeles) se ven mejor.
+- Que no pesen mucho (menos de 500 KB) para que carguen rápido.
+
+--------------------------------------------------
+NOTA
+--------------------------------------------------
+La foto "1.jpg" que viene aquí es solo un EJEMPLO para que
+veas la galería funcionando. Puedes borrarla o reemplazarla
+por la tuya cuando quieras.
