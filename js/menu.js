@@ -17,7 +17,7 @@ const CONFIG = {
   moneda: "RD$",
 
   /* Nombre del negocio (se usa en el mensaje de WhatsApp) */
-  nombreNegocio: "Venta de Hot Dog"
+  nombreNegocio: "D' EDWIN SABOR SIN LIMITES"
 };
 
 
